@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 Data
 .DS_Store
+models
+utils

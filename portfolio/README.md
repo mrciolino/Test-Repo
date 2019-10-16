@@ -16,4 +16,5 @@ Network from original paper (https://arxiv.org/pdf/1609.04802.pdf)
 
 ##### Single Image Super Resolution Example
 
+Code is a heavily modified fork of [Keras SRGAN](https://github.com/deepak112/Keras-SRGAN)
 ![Super Resolution Example Viz](../refs/super_resolution_image.png)

@@ -2,7 +2,7 @@
 
 Test repo for notebooks different projects.
 
-## [xeval](https://github.com/mrciolino/Test-Repo/tree/master/xeval)
+# [xeval](https://github.com/mrciolino/Test-Repo/tree/master/xeval)
 
 Example notebooks to show to clients.
 
@@ -17,16 +17,3 @@ Example notebooks to show to clients.
 ##### Vote Prediction for House
 
 ![Vote Viz](refs/prediction_viz.png)
-
-
-## [portfolio](https://github.com/mrciolino/Test-Repo/tree/master/portfolio)
-
-Example notebooks to show to potential employers.
-
-##### Single Image Super Resolution
-
-![Super Resolution Viz](refs/sisr.png)
-
-##### Single Image Super Resolution Training
-
-![Super Resolution Training Viz](refs/sisr_training.png)
